@@ -50,10 +50,10 @@ Ao acessar o painel de senhas pela primeira vez a aplicação levará o usuário
 ```
 Ao salvar esses dados o usuário deve obter uma mensagem de sucesso, caso isso não ocorra, revise as informações inseridas.
 
-## 2 - Ligar o painel a unidade e selecionar os serviços
-Após efetivar a conexão do painel adm com o painel de senhas o usuário precisa determinar uma unidade para o painel e selecionar os serviços que serão exibidos.
+## 2 - Ligar o painel a uma unidade (setor/departamento) e selecionar os serviços (atividades)
+Após efetivar a conexão do painel adm com o painel de senhas o usuário precisa determinar uma unidade (setor/departamento) para o painel e selecionar os serviços (atividades) que serão exibidos.
 ```
 - Clique em "Serviços";
-- Selecione uma unidade;
+- Selecione uma unidade (setor/departamento);
 - Marque o(s) serviço(s).
 ```
