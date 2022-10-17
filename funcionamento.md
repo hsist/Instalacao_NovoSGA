@@ -31,7 +31,7 @@ Nessa etapa o atendente informa as seguintes informações:
 - Opcional => A resolução: "Resolvido" ou "Pendente";
 - Opcional => Observações (texto livre).
 ```
-E por fim pode "Encerrar atendimento" ou "Encerrar e redirecionar atendimento". A opção "Encerrar atendimento" leva o atendimento de volta a fila e a possibilidade de chamar uma próxima senha. "Encerrar e redirecionar atendimento" encerra o atendimento em curso e redireciona a senha para outro serviço (atividade).
+E por fim pode "Encerrar atendimento" ou "Encerrar e redirecionar atendimento". A opção "Encerrar atendimento" leva o usuário de volta a fila e a possibilidade de chamar uma próxima senha. "Encerrar e redirecionar atendimento" encerra o atendimento em curso e redireciona a senha para outro serviço (atividade).
 
 ## 5 - Erro de triagem
 Permite ao usuário redirecionar a senha para um novo serviço (atividade) e também para um atendente específico, a segunda opção é opcional.
