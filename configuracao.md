@@ -9,16 +9,16 @@ Acessar o novosga com as credenciais determinados no fim da instação da aplica
 - senha: 123456
 ```
  
-## 2 - Criar um serviço
+## 2 - Criar um serviço (atividade)
 ```
 - Acesse a engrenagem na parte superior direita da página: Administração;
 - Selecione a aba "Serviços";
-- Crie um serviço.
+- Crie um serviço (atividade).
 ```
  
-## 3 - Ligar o serviço ao guichê
+## 3 - Ligar o serviço (atividade) ao guichê
 ```
-- Acesse a unidade na parte superior esquerda da página: Unidade (Unit);
+- Acesse a unidade (setor/departamento) na parte superior esquerda da página: Unidade (Unit);
 - Selecione "Configurações";
 - Abra a aba "Atendimento";
 - Selecione o(s) serviço(s) e em seguida clique em "+" para adicionar ao guichê.
